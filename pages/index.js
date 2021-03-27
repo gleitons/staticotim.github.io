@@ -11,7 +11,7 @@ export default function Home() {
 
       <main className={styles.menu}>
         <h1 className={styles.title}>
-          Welcome to <a href="/sobre">Next.js!</a>
+          Welcome to <a href="/sobre">Sobre!</a>
         </h1>
 
         <p className={styles.description}>
